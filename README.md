@@ -40,5 +40,7 @@ A simple and intuitive expense tracking app built with **React Native** using **
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/splitwise-clone.git
-   cd splitwise-clone
+   git clone https://github.com/iamsanjaii/splitwise.git
+   cd splitwise
+   npm install
+   npx expo start
